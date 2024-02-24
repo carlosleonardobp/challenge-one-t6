@@ -4,6 +4,9 @@
 
 #challengeonedecodificador6
 
+![Logo](https://www.alura.com.br/assets/img/home/alura-logo.1686744881.svg)
+![Logo](https://www.svgrepo.com/show/354152/oracle.svg)
+
 </div>
 
 ## Sobre:
