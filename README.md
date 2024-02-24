@@ -38,7 +38,7 @@ GitHub Pages: https://bastosclbp.github.io/challenge-one-t6/
 
 ### Carlos Leonardo
 
-[Linkedin]https://www.linkedin.com/in/carlos-leonardo-es/
+[Linkedin](https://www.linkedin.com/in/carlos-leonardo-es/)
 
 ## Responsividade:
 
