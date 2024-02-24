@@ -15,6 +15,18 @@ entradaTexto.addEventListener('input', () => {
 	}
 });
 
+function validarTexto(entradaTexto) {
+	entradaTexto.addEventListener('input', function (event) {
+		let textoAnterior = entradaTexto.value;
+		let textoNovo = textoAnterior.toLowerCase().replace(/[^\w\s]/gi, '');
+		if (textoAnterior !== textoNovo) {
+			entradaTexto.value = textoNovo;
+		}
+	});
+}
+
+validarTexto(entradaTexto);
+
 function criptografar(texto) {
 	return texto
 		.replaceAll('e', 'enter')
