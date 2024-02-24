@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Decodificador de Texto - Alura Challenges Oracle ONE</title>
+		<link rel="stylesheet" href="./assets/style/style.css" />
+		<script
+			src="https://kit.fontawesome.com/2bdd9a1798.js"
+			crossorigin="anonymous"
+		></script>
+	</head>
+	<body>
+		<header>
+			<a href="index.html">
+				<img
+					class="logo"
+					src="./assets/img/encryption-icon.svg"
+					alt="Logo Criptografia"
+				/>
+			</a>
+		</header>
+		<main class="container">
+			<section class="box">
+				<textarea
+					id="entrada-texto"
+					class="caixaTexto"
+					placeholder="Digite seu texto..."
+				></textarea>
+				<span class="alerta"
+					><i class="icone-alerta fa-solid fa-circle-exclamation"></i
+					>Apenas letras minúsculas e sem acento.</span
+				>
+				<div class="botoes">
+					<button
+						onclick="criptografarTexto()"
+						id="criptografar"
+						class="btn-criptografar"
+						type="button"
+					>
+						Criptografar
+					</button>
+					<button
+						onclick="descriptografarTexto()"
+						id="descriptografar"
+						class="btn-descriptografar"
+						type="button"
+					>
+						Descriptografar
+					</button>
+				</div>
+			</section>
+			<section class="menu-lateral">
+				<div id="lateral" class="conteudo-lateral">
+					<img
+						class="logo-menu"
+						src="./assets/img/espiao-icon.svg"
+						alt="Logo Espião"
+					/>
+					<div class="menu-texto">
+						<h1 class="titulo-menu-lateral">
+							Nenhuma mensagem encontrada
+						</h1>
+						<p class="texto-menu-lateral">
+							Digite um texto que você deseja criptografar ou
+							descriptografar.
+						</p>
+					</div>
+				</div>
+				<div id="resultado" class="resultado-lateral">
+					<textarea
+						id="saida-texto"
+						class="caixaTextoResultado"
+					></textarea>
+					<button
+						onclick="copiarTexto()"
+						id="btn-copiar"
+						class="btn-copiar"
+						type="button"
+					>
+						Copiar
+					</button>
+				</div>
+			</section>
+		</main>
+		<footer class="rodape">
+			<p>
+				Desenvolvido por
+				<strong class="destaque-rodape">Carlos Leonardo</strong>
+			</p>
+			<a href="https://github.com/bastosclbp" target="_blank">
+				<span class="links-icones"
+					><i class="fa-brands fa-github"></i></span
+			></a>
+			<a
+				href="https://www.linkedin.com/in/carlos-leonardo-es/"
+				target="_blank"
+			>
+				<span class="links-icones"
+					><i class="fa-brands fa-linkedin-in"></i></span
+			></a>
+			<a href="https://www.instagram.com/bastosclbp/" target="_blank">
+				<span class="links-icones"
+					><i class="fa-brands fa-instagram"></i
+				></span>
+			</a>
+			<a href="https://twitter.com/bastosclbp17" target="_blank">
+				<span class="links-icones"
+					><i class="fa-brands fa-x-twitter"></i></span
+			></a>
+		</footer>
+		<script src="./assets/js/script.js"></script>
+	</body>
+</html>
