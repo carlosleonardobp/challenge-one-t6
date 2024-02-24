@@ -32,7 +32,7 @@ Consiste em criptografar e descriptografar um texto e copiar o resultado de ambo
 
 ## Deploy:
 
-GitHub Pages: https://bastosclbp.github.io/challenge-one-t6/
+[GitHub Pages](https://bastosclbp.github.io/challenge-one-t6/)
 
 ## Feito por:
 
