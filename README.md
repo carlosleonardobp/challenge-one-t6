@@ -32,13 +32,13 @@ Consiste em criptografar e descriptografar um texto e copiar o resultado de ambo
 
 ## Deploy:
 
-[GitHub Pages](https://bastosclbp.github.io/challenge-one-t6/)
+[GitHub Pages](https://carlos-leonardo-bp.github.io/challenge-one-t6/)
 
 ## Feito por:
 
 ### Carlos Leonardo
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bastosclbp/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-leonardo-bp/)
 
 ## Responsividade:
 
