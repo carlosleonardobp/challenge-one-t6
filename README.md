@@ -6,6 +6,14 @@
 
 </div>
 
+## Responsividade:
+
+<div align="center">
+
+<img width="500px" src=".github/mockup-responsive-devices.png" />
+
+</div>
+
 ## Sobre:
 
 Este é um projeto do desafio de Decodificador de Texto da Alura Challenges no programa Oracle Next Education - Turma 6.
@@ -13,51 +21,27 @@ Consiste em criptografar e descriptografar um texto e copiar o resultado de ambo
 
 ## Funcionalidades:
 
--   Criptografar texto digitado.
--   Descriptografar texto digitado.
--   Copiar texto de saída.
--   Alertar sobre o texto copiado.
+- Criptografar texto digitado.
+- Descriptografar texto digitado.
+- Copiar texto de saída.
+- Alertar sobre o texto copiado.
 
-## Ferramentas utilizadas:
+## Tecnologias utilizadas:
 
--   HTML
+- HTML e CSS
 
--   CSS
+- JavaScript
 
--   Flex-box
+- Font Awesome
 
--   Font Awesome
-
--   Clipboard API
+- Clipboard API
 
 ## Deploy:
 
-[GitHub Pages](https://carlos-leonardo-bp.github.io/challenge-one-t6/)
+[GitHub Pages](https://carlosleonardobp.github.io/challenge-one-t6/)
 
 ## Feito por:
 
 ### Carlos Leonardo
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-leonardo-bp/)
-
-## Responsividade:
-
-<div align="center">
-
-|                                                      Desktop                                                      |
-| :---------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/bastosclbp/challenge-one-t6/assets/85074809/fd3bdc6b-f03d-4ef6-9b68-68ac4fe5b34f" /> |
-
-|                                                      Tablet                                                       |
-| :---------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/bastosclbp/challenge-one-t6/assets/85074809/ef1abebf-7c32-4cd1-8327-b612c2a7fcb4" /> |
-
-|                                                      Mobile                                                       |
-| :---------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/bastosclbp/challenge-one-t6/assets/85074809/a0fe260e-6eca-4161-9401-880cbd93274b" /> |
-
-</div>
-
-```
-
-```
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosleonardobp/)
