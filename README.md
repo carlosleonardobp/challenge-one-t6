@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img width="500px" src=".github/mockup-responsive-devices.png" />
+<img width="500px" src=".github/responsive-devices.png" />
 
 </div>
 
