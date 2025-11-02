@@ -44,6 +44,7 @@ body {
   flex: 1;
   margin: 1rem;
   display: flex;
+  justify-content: center;
 }
 
 .box {
@@ -311,6 +312,7 @@ body {
   .btn-criptografar,
   .btn-descriptografar,
   .btn-copiar {
-    width: 25rem;
+    width: 100%;
+    max-width: 25rem;
   }
 }
